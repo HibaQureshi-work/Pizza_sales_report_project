@@ -1,6 +1,6 @@
 # Pizza_sales_report_project
 
-  -------------------------------------------------Pizza Sales Report Project---------------------------------------------------------
+-------------------------------------------------Pizza Sales Report Project----------------------------------------------------
 
 This project provides a comprehensive sales analysis for a fictional pizza restaurant using Power BI for visualization, SQL for data querying, and Excel as the data source. It delivers insights into key performance metrics, sales trends, and product-level performance to support business decision-making.
 
